@@ -87,16 +87,16 @@
 
 
 
-<!DOCTYPE html>
+
 <html>
 <head>
 <style>
   .cuadrado-responsive {
-    width: 50%; /* Ocupa el 50% del ancho del contenedor padre */
+    width: 80%; /* Ocupa el 50% del ancho del contenedor padre */
     aspect-ratio: 1 / 1; /* Mantiene la relación de aspecto 1:1 (cuadrado) */
     background-color: #e6f7ff;
-    padding: 20px;
-    border: 1px solid #b3e0ff;
+    padding: 10px;
+    border: px solid #b3e0ff;
   }
 </style>
 </head>
