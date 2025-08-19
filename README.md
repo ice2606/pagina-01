@@ -79,8 +79,33 @@
   }
 </style>
 
-<input type="text" class="cuadro-de-texto-azul" placeholder="Escribe aquí...">
 
 
 
-       
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  .cuadrado-responsive {
+    width: 50%; /* Ocupa el 50% del ancho del contenedor padre */
+    aspect-ratio: 1 / 1; /* Mantiene la relación de aspecto 1:1 (cuadrado) */
+    background-color: #e6f7ff;
+    padding: 20px;
+    border: 1px solid #b3e0ff;
+  }
+</style>
+</head>
+<body>
+
+  <div class="cuadrado-responsive">
+    <h2>Información Flexible</h2>
+    <p>Este cuadrado cambiará su tamaño de forma proporcional si la ventana del navegador se redimensiona, manteniendo siempre una relación de 1:1.</p>
+  </div>
+
+</body>
+</html>
