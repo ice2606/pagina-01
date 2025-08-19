@@ -1,4 +1,4 @@
-# pagina 1
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -60,7 +60,8 @@
 <body>
 
     <header>
-        <h1>Bienvenido a mi Página Principal</h1>
+        <h1>BIENVENIDOS 
+        calzado narvaez castro </h1>
     </header>
 
     <nav>
