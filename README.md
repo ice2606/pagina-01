@@ -81,8 +81,6 @@
 
 
 
-</header>
-
 
     <div class="container">
         <section id="inicio" class="main-content">
@@ -91,30 +89,4 @@
             <p>¡Explora las diferentes secciones del sitio!</p>
         </section>
 
-        <section id="acerca" class="main-content">
-            <h2>Acerca de nosotros</h2>
-            <p>Aquí puedes contar la historia de tu empresa, tu proyecto o sobre ti. Describe la misión, la visión y lo que te hace único.</p>
-        </section>
-
-        <section id="servicios" class="main-content">
-            <h2>Nuestros Servicios</h2>
-            <ul>
-                <li>Servicio 1: Una breve descripción de lo que ofreces.</li>
-                <li>Servicio 2: Otra descripción.</li>
-                <li>Servicio 3: Y una más.</li>
-            </ul>
-        </section>
-        
-        <section id="contacto" class="main-content">
-            <h2>Contacto</h2>
-            <p>Puedes incluir tu información de contacto, como un formulario, correo electrónico o número de teléfono.</p>
-            <p>Correo electrónico: <a href="mailto:tu.correo@ejemplo.com">tu.correo@ejemplo.com</a></p>
-        </section>
-    </div>
-
-    <footer>
-        <p>&copy; 2025 Mi Sitio Web. Todos los derechos reservados.</p>
-    </footer>
-
-</body>
-</html>
+       
