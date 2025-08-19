@@ -79,14 +79,8 @@
   }
 </style>
 
+<input type="text" class="cuadro-de-texto-azul" placeholder="Escribe aquí...">
 
 
-
-    <div class="container">
-        <section id="inicio" class="main-content">
-            <h2>Inicio</h2>
-            <p>Este es el contenido de la sección de inicio. Puedes añadir texto, imágenes y cualquier otro elemento HTML aquí.</p>
-            <p>¡Explora las diferentes secciones del sitio!</p>
-        </section>
 
        
