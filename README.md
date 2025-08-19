@@ -60,16 +60,29 @@
 <body>
 
     <header>
-        <h1>BIENVENIDOS 
-        calzado narvaez castro </h1>
-    </header>
+        <h1>BIENVENIDOS </h1>
+        <h1> calzado narvaez castro </h1>
+    <a href="https://www.google.com" class="boton-personalizado">Ir a Google</a>
 
-    <nav>
-        <a href="#inicio">Inicio</a>
-        <a href="#acerca">Acerca de</a>
-        <a href="#servicios">Servicios</a>
-        <a href="#contacto">Contacto</a>
-    </nav>
+<style>
+  .boton-personalizado {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-family: sans-serif;
+  }
+
+  .boton-personalizado:hover {
+    background-color: #0056b3;
+  }
+</style>
+
+
+
+</header>
+
 
     <div class="container">
         <section id="inicio" class="main-content">
