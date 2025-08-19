@@ -82,30 +82,25 @@
 
 
 
-
-
-
-
-
-
-<html>
-<head>
 <style>
-  .cuadrado-responsive {
-    width: 80%; /* Ocupa el 50% del ancho del contenedor padre */
-    aspect-ratio: 1 / 1; /* Mantiene la relación de aspecto 1:1 (cuadrado) */
-    background-color: #e6f7ff;
-    padding: 10px;
-    border: px solid #b3e0ff;
+  .cuadrado-blanco {
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    color: black;
+    border: 1px solid #ccc; /* Borde opcional para que se vea el cuadrado */
+    padding: 20px;
+    margin: 50px auto; /* Centra el bloque horizontalmente */
+    text-align: center; /* Centra el texto dentro del bloque */
+    box-sizing: border-box; /* Asegura que el padding no afecte el tamaño total */
+  }
+
+  /* Para centrar el contenido verticalmente si es necesario */
+  .cuadrado-blanco h1,
+  .cuadrado-blanco p {
+    margin: 0;
   }
 </style>
-</head>
-<body>
 
-  <div class="cuadrado-responsive">
-    <h2>Información Flexible</h2>
-    <p>Este cuadrado cambiará su tamaño de forma proporcional si la ventana del navegador se redimensiona, manteniendo siempre una relación de 1:1.</p>
-  </div>
 
-</body>
-</html>
+
