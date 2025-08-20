@@ -90,43 +90,25 @@
   }
 </style>
 
-
-
-
-
-
-
-
 <!DOCTYPE html>
 <html>
 <head>
 <style>
-  textarea {
-    width: 100%; /* El 100% del ancho del contenedor */
-    height: 200px;
-    padding: 15px;
-    border: 2px solid #ccc;
-    border-radius: 8px;
-    font-size: 16px;
-    font-family: Arial, sans-serif;
-    resize: vertical; /* Permite redimensionar solo verticalmente */
-  }
-
-  textarea:focus {
-    outline: none; /* Elimina el borde de enfoque por defecto */
-    border-color: #007BFF;
-    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+  .contenedor-texto {
+    width: 60%; /* Define el ancho del contenedor */
+    margin: 0 auto; /* Centra el contenedor horizontalmente */
+    text-align: center; /* Centra el texto dentro del contenedor */
+    padding: 20px; /* Agrega espacio interno */
+    border: 1px solid #ccc; /* Agrega un borde para visualizarlo */
   }
 </style>
 </head>
 <body>
 
-  <label for="info_web">Información sobre la Web:</label><br>
-  <textarea name="info_web" id="info_web">
-    Aquí puedes escribir una descripción detallada de tu sitio web.
-  </textarea>
+  <div class="contenedor-texto">
+    <h1>Título Centrado</h1>
+    <p>Este es un párrafo de texto que se encuentra dentro del contenedor y está centrado en la página.</p>
+  </div>
 
 </body>
 </html>
-
-
