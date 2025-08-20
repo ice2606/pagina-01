@@ -61,7 +61,7 @@
     <header>
         <h1>BIENVENIDOS </h1>
         <h1> calzado narvaez castro </h1>
-    <a href="https://ice2606.github.io/pagina-002/" class="boton-personalizado">Ir a Google</a>
+    <a href="https://ice2606.github.io/pagina-002/" class="boton-personalizado">Ir a catalogo</a>
 
 <style>
   .boton-personalizado {
