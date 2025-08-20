@@ -139,7 +139,7 @@ background-color:38F527 ;
 </style>
 </head>
 <body>
-    <img src="nombre-del-gif.gif" class="mi-gif" alt="Descripción del GIF">
+    <img src="compra.gif" class="mi-gif" alt="Descripción del GIF">
 </body>
 </html>
 
