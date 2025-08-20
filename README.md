@@ -71,6 +71,12 @@
     text-decoration: none;
     border-radius: 5px;
     font-family: sans-serif;
+texto-blanco {
+    color: white; /* Color del texto en blanco para que sea visible */
+    font-size: 24px;
+    text-align: center;
+    padding-top: 50px;
+      
   }
 
   .boton-personalizado:hover {
@@ -100,6 +106,8 @@
     text-align: center; /* Centra el texto dentro del contenedor */
     padding: 20px; /* Agrega espacio interno */
     border: 1px solid #ccc; /* Agrega un borde para visualizarlo */
+      color:#000000;
+background-color: #000;
   }
 </style>
 </head>
