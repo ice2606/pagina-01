@@ -93,7 +93,7 @@ background-color:38F527 ;
 
 
 
-<!DOCTYPE html>
+
 <html>
 <head>
   <title>GIF con Hipervínculo</title>
@@ -117,6 +117,38 @@ background-color:38F527 ;
 
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+<style>
+  body {
+    background-image: url('tenis.jpg');
+    background-size: cover;          /* Ajusta la imagen para cubrir todo el fondo */
+    background-repeat: no-repeat;    /* Evita que la imagen se repita */
+    background-position: center;     /* Centra la imagen */
+    background-attachment: fixed;    /* Mantiene la imagen fija al hacer scroll */
+  }
+</style>
+</head>
+<body>
+
+
+</body>
+</html>
+
+
+
+
 
 
 
