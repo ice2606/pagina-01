@@ -150,3 +150,38 @@ background-color:38F527 ;
 
 
 
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  body {
+    background: #f0f0f5;
+    text-align: center;
+  }
+
+  .texto-gradiente {
+    /* Define el degradado de fondo */
+    background: -webkit-linear-gradient(left, red, orange, yellow, green, blue, indigo, violet); /* para Safari y Chrome */
+    background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); /* Estándar */
+    /* Recorta el fondo al texto */
+    -webkit-background-clip: text; /* para Safari y Chrome */
+    background-clip: text; /* Estándar */
+    /* Hace que el texto sea transparente para que el fondo sea visible */
+    color: transparent;
+    /* Estilos del texto para hacerlo visible y llamativo */
+    font-size: 5rem;
+    font-weight: bold;
+    font-family: sans-serif;
+  }
+</style>
+</head>
+<body>
+
+  <h1 class="texto-gradiente">arcoiris</h1>
+
+</body>
+</html>
+
