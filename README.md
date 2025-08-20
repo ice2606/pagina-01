@@ -128,7 +128,31 @@ background-color:38F527 ;
 
 
 
+<a href="https://ice2606.github.io/pagina-002/" class="boton-verde">
+  <button>Ir a catalogo </button>
+</a>
 
+<style>
+  .boton-verde {
+    text-decoration: none; /* Elimina el subrayado del enlace */
+  }
+
+  .boton-verde button {
+    background-color: #4CAF50; /* Color de fondo verde */
+    color: white; /* Color de la letra blanco */
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px; /* Bordes redondeados */
+  }
+
+  .boton-verde button:hover {
+    background-color: #45a049; /* Color verde más oscuro al pasar el ratón */
+  }
+</style>
 
 
 
