@@ -126,7 +126,6 @@ background-color:38F527 ;
 
 
 
-<!DOCTYPE html>
 <html>
 <head>
 <style>
