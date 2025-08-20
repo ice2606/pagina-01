@@ -121,5 +121,33 @@ background-color:38F527 ;
 
 
 
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  body {
+    background-image: url('tenis.jpg'); /* Reemplaza con la ruta de tu imagen */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+  }
+
+  /* Opcional: Estilos para hacer el texto legible */
+  h1, p {
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+  }
+</style>
+</head>
+<body>
+
+  <h1>Título de mi página</h1>
+  <p>Este es un texto que se ve sobre la imagen de fondo.</p>
+
+</body>
+</html>
+
+
 
 
