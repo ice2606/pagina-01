@@ -122,41 +122,6 @@ background-color:38F527 ;
 
 
 
-<html>
-<head>
-<style>
-  body {
-    background-image: url('tenis.jpg'); /* Reemplaza con la ruta de tu imagen */
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;
-  }
-
-  /* Opcional: Estilos para hacer el texto legible */
-  h1, p {
-    color: white;
-    text-shadow: 2px 2px 4px #000000;
-  }
-</style>
-</head>
-<body>
-
-  <p>Este es un texto que se ve sobre la imagen de fondo.</p>
-
-</body>
-</html>
-
-
-<h1 style="position: relative;">
-  <span style="color: black; z-index: 1;">Texto de ejemplo</span>
-  <span style="background: linear-gradient(to right, red, blue); -webkit-background-clip: text; color: transparent; z-index: 2; position: absolute; top: 0; left: 0;">Texto de ejemplo</span>
-</h1>
-
-
-
-
-
 
 
 
