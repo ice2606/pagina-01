@@ -155,3 +155,27 @@ background-color:38F527 ;
 
 
 
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    .mi-gif {
+        width: 300px;
+        height: auto; /* Mantiene la proporción del GIF */
+        border: 2px solid #ccc;
+        border-radius: 10px;
+    }
+</style>
+</head>
+<body>
+    <img src="nombre-del-gif.gif" class="mi-gif" alt="Descripción del GIF">
+</body>
+</html>
+
+
