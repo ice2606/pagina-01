@@ -143,3 +143,31 @@ background-color:38F527 ;
 </html>
 
 
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+<style>
+  body {
+    background-image: url('tenis.jpg');
+    background-size: cover;          /* Ajusta la imagen para cubrir todo el fondo */
+    background-repeat: no-repeat;    /* Evita que la imagen se repita */
+    background-position: center;     /* Centra la imagen */
+    background-attachment: fixed;    /* Mantiene la imagen fija al hacer scroll */
+  }
+</style>
+</head>
+<body>
+
+
+
+</body>
+</html>
+
