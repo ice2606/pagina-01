@@ -63,7 +63,7 @@
         <h1> calzado narvaez castro </h1>
     
 
-<!DOCTYPE html>
+
 <html>
 <head>
 <style>
@@ -81,8 +81,8 @@ background-color:38F527 ;
 <body>
 
   <div class="contenedor-texto">
-    <h1>Título Centrado</h1>
-    <p>Este es un párrafo de texto que se encuentra dentro del contenedor y está centrado en la página.</p>
+    <h1>narvaez castro </h1>
+    <p>donde la calidad nunca pasa de moda </p>
   </div>
 
 </body>
@@ -121,7 +121,7 @@ background-color:38F527 ;
 
 
 
-<!DOCTYPE html>
+
 <html>
 <head>
 <style>
@@ -142,7 +142,6 @@ background-color:38F527 ;
 </head>
 <body>
 
-  <h1>Título de mi página</h1>
   <p>Este es un texto que se ve sobre la imagen de fondo.</p>
 
 </body>
