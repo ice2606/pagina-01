@@ -64,13 +64,15 @@
     <a href="https://ice2606.github.io/pagina-002/" class="boton-personalizado">Ir a catalogo</a>
 
 <style>
-  .boton-personalizado {
+  .boton 001{
     background-color: #007BFF;
     color: white;
     padding: 10px 20px;
     text-decoration: none;
     border-radius: 5px;
     font-family: sans-serif;
+       margin: 0 auto; /* Centra el contenedor horizontalmente */
+    text-align: center; /* Centra el texto dentro del contenedor */
 texto-blanco {
     color: white; /* Color del texto en blanco para que sea visible */
     font-size: 24px;
