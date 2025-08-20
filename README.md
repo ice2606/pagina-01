@@ -107,7 +107,7 @@ texto-blanco {
     padding: 20px; /* Agrega espacio interno */
     border: 1px solid #ccc; /* Agrega un borde para visualizarlo */
       color:#000000;
-background-color: #000;
+background-color:38F527 ;
   }
 </style>
 </head>
