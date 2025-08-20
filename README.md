@@ -93,22 +93,40 @@
 
 
 
+
+
+
+
 <!DOCTYPE html>
 <html>
 <head>
 <style>
-  .cuadro-con-fondo {
-    background-color: #f0f8ff; /* Color de fondo */
-    color: #333;             /* Color del texto */
-    border: 1px solid #ccc;   /* Borde */
-    padding: 8px;             /* Espacio interno */
-    border-radius: 5px;       /* Bordes redondeados */
+  textarea {
+    width: 100%; /* El 100% del ancho del contenedor */
+    height: 200px;
+    padding: 15px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    resize: vertical; /* Permite redimensionar solo verticalmente */
+  }
+
+  textarea:focus {
+    outline: none; /* Elimina el borde de enfoque por defecto */
+    border-color: #007BFF;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
   }
 </style>
 </head>
 <body>
 
-  <input type="text" class="cuadro-con-fondo" placeholder="Escribe aquí...">
+  <label for="info_web">Información sobre la Web:</label><br>
+  <textarea name="info_web" id="info_web">
+    Aquí puedes escribir una descripción detallada de tu sitio web.
+  </textarea>
 
 </body>
 </html>
+
+
