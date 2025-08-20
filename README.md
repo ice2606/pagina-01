@@ -93,81 +93,30 @@ background-color:38F527 ;
 
 
 
-<a href="https://ice2606.github.io/pagina-002/" class="boton-verde">
-  <button>Ir a catalogo </button>
-</a>
-
-<style>
-  .boton-verde {
-    text-decoration: none; /* Elimina el subrayado del enlace */
-  }
-
-  .boton-verde button {
-    background-color: #4CAF50; /* Color de fondo verde */
-    color: white; /* Color de la letra blanco */
-    border: none;
-    padding: 15px 32px;
-    text-align: center;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
-    border-radius: 8px; /* Bordes redondeados */
-  }
-
-  .boton-verde button:hover {
-    background-color: #45a049; /* Color verde más oscuro al pasar el ratón */
-  }
-</style>
-
-
-
-
-
-
-
-
+<!DOCTYPE html>
 <html>
 <head>
-<style>
-    .mi-gif {
-        width: 300px;
-        height: auto; /* Mantiene la proporción del GIF */
-        border: 2px solid #ccc;
-        border-radius: 10px;
+  <title>GIF con Hipervínculo</title>
+  <style>
+    /* Opcional: Estilos para el GIF */
+    img {
+      width: 250px;
+      height: auto;
+      border: 5px solid #5cb85c;
+      border-radius: 10px;
     }
-</style>
+  </style>
 </head>
 <body>
-    <img src="compra.gif" class="mi-gif" alt="Descripción del GIF">
+
+  <h1></h1>
+
+  <a href="https://ice2606.github.io/pagina-002/" target="_blank">
+    <img src="compra.gif" alt="Un GIF de un perro con gafas de sol">
+  </a>
+
 </body>
 </html>
 
 
-
-
-
-
-
-
-
-
-
-<html>
-<head>
-<style>
-  body {
-    background-image: url('tenis.jpg');
-    background-size: cover;          /* Ajusta la imagen para cubrir todo el fondo */
-    background-repeat: no-repeat;    /* Evita que la imagen se repita */
-    background-position: center;     /* Centra la imagen */
-    background-attachment: fixed;    /* Mantiene la imagen fija al hacer scroll */
-  }
-</style>
-</head>
-<body>
-
-
-
-</body>
-</html>
 
