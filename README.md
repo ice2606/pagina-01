@@ -155,13 +155,13 @@ texto-blanco {
   }
 
   .boton-personalizado:hover {
-    background-color: #0056b3;
+    background-color: 3CF527;
   }
 </style>
 
 <style>
   .contenedor-texto {
-    background-color: #f0f8ff; /* Color de fondo azul muy claro */
+    background-color:3CF527 ; /* Color de fondo azul muy claro */
     padding: 20px;
     margin: 50px auto; /* Centra el bloque horizontalmente */
     width: 60%; /* Ajusta el ancho del contenedor */
