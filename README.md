@@ -76,7 +76,8 @@ texto-blanco {
     font-size: 24px;
     text-align: center;
     padding-top: 50px;
-      
+       margin: 0 auto; /* Centra el contenedor horizontalmente */
+    text-align: center; /* Centra el texto dentro del contenedor */
   }
 
   .boton-personalizado:hover {
