@@ -79,28 +79,15 @@
   }
 </style>
 
-
-
-
 <style>
-  .cuadrado-blanco {
-    width: 300px;
-    height: 300px;
-    background-color: white;
-    color: black;
-    border: 1px solid #ccc; /* Borde opcional para que se vea el cuadrado */
+  .contenedor-texto {
+    background-color: #f0f8ff; /* Color de fondo azul muy claro */
     padding: 20px;
     margin: 50px auto; /* Centra el bloque horizontalmente */
-    text-align: center; /* Centra el texto dentro del bloque */
-    box-sizing: border-box; /* Asegura que el padding no afecte el tamaño total */
-  }
-
-  /* Para centrar el contenido verticalmente si es necesario */
-  .cuadrado-blanco h1,
-  .cuadrado-blanco p {
-    margin: 0;
+    width: 60%; /* Ajusta el ancho del contenedor */
+    border-radius: 10px; /* Esquinas redondeadas */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+    text-align: center; /* Centra el texto dentro del contenedor */
   }
 </style>
-
-
 
