@@ -90,3 +90,25 @@
   }
 </style>
 
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  .cuadro-con-fondo {
+    background-color: #f0f8ff; /* Color de fondo */
+    color: #333;             /* Color del texto */
+    border: 1px solid #ccc;   /* Borde */
+    padding: 8px;             /* Espacio interno */
+    border-radius: 5px;       /* Bordes redondeados */
+  }
+</style>
+</head>
+<body>
+
+  <input type="text" class="cuadro-con-fondo" placeholder="Escribe aquí...">
+
+</body>
+</html>
