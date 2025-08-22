@@ -151,4 +151,4 @@ background-color:38F527 ;
 
 
 
-<p class="texto-animado">¡Hola! Este texto se mueve.</p>
+<p class="texto-animado">ubicados de : iglesia el calvario dos cuadras abajo </p>
